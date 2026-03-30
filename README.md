@@ -258,12 +258,6 @@ Each skill lives in its own directory and contains a `SKILL.md` file with step-b
 | `abuse-prevention-system` | Building a comprehensive anti-abuse system |
 | `bot-protection` | Detecting and blocking automated bot traffic |
 
-### Go Language
-| Skill | Description |
-|-------|-------------|
-| `go-best-practices` | Idiomatic Go patterns, error handling, and project structure |
-| `go-unit-tests` | Writing effective unit tests in Go |
-
 ### Tooling
 | Skill | Description |
 |-------|-------------|
